@@ -1,0 +1,2 @@
+# jas502n6
+CommonsBeanutils1,CommonsCollectionsK1
